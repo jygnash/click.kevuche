@@ -19,6 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/purecss/build/pure-min.css",
+        "../node_modules/purecss/build/grids-responsive-min.css",
+        "./assets/css/gallery.css",
         "styles.css"
       ],
       "scripts": [],
